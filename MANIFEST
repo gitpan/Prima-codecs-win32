@@ -1,6 +1,7 @@
 Makefile.PL
 MANIFEST
 README
+t/01-load.t
 lib/.exists
 lib/Prima/.exists
 lib/Prima/codecs/win32.pm
